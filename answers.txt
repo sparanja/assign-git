@@ -5,4 +5,4 @@ A:      Fast-forward means that there are no changes on the branch where merge i
 • Why should you have different branches?
 A:      So that each individual has his/her own working copy and doesn't break the master branch. The master branch must be stable at all times. 
 • In a project how many remote Git repositories do you usually have?
-A:      Usually there is a single repository , but it depends on the project (if there are independent modules in the project)
+A:      Usually there is a single repository in GitHub . In addition there might be a remote backup repository 
